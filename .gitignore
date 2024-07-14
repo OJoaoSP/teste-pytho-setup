@@ -1,2 +1,4 @@
 venv*
 printer.egg*
+teste.py
+*__pycache__*
