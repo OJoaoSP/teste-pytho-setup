@@ -1,2 +1,2 @@
 def printador(ars):
-    print('Funciona')
+    print('Funciona mas agora é a versão 2')
