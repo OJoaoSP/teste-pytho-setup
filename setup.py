@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 setup(
     name='printer',
-    version='0.9.0',
+    version='0.10.0',
     description='Descrição do seu pacote',
     packages=['printer_teste', 'printer_teste.printeEstranho'],
     python_requires='>=3.9',
