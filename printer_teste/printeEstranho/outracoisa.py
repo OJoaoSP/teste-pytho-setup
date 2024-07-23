@@ -1,0 +1,2 @@
+def outra():
+    print('outra')
