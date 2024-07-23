@@ -1,7 +1,7 @@
 from setuptools import setup
 setup(
     name='printer',
-    version='0.4.0',
+    version='0.5.0',
     description='Descrição do seu pacote',
     packages=['printer'],
     python_requires='>=3.9',
